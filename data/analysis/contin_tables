@@ -1,0 +1,13 @@
+,isActive,isMoA,count,Table
+0,False,False,6965,GE_plus
+1,False,True,172,GE_plus
+2,True,False,8752,GE_plus
+3,True,True,1588,GE_plus
+4,False,False,4841,GE
+5,False,True,112,GE
+6,True,False,3177,GE
+7,True,True,1006,GE
+8,False,False,14375,all
+9,False,True,172,all
+10,True,False,13558,all
+11,True,True,1589,all
