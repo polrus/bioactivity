@@ -1,0 +1,9 @@
+isActive,isMoA,isGE,count
+False,False,False,9456
+False,False,True,4667
+False,True,False,140
+False,True,True,286
+True,False,False,9946
+True,False,True,2493
+True,True,False,1024
+True,True,True,1696
